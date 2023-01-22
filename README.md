@@ -22,6 +22,8 @@ If this still doesn't work, feel free to contact me so I can help you solve your
 **advanced settings**<br>
 For the more adventurous among you, you can have fun modifying the code of the file to be able to modify parameters, like the colour of the qrcode! Don't worry, each piece of code is commented to help you as much as possible.
 
+Made with <3 by St4lW | <a href='https://github.com/malwprotector'>github main page</a>
+
 
 
 
